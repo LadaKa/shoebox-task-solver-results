@@ -1,0 +1,23 @@
+Convert the task shown in this image into a PDDL domain definition. 
+Output only valid PDDL domain code.
+
+STRICT CONSTRAINTS (must follow exactly):
+- The output MUST be valid for the Tarski PDDL parser.
+- Use only STRIPS-style PDDL.
+- Do NOT use derived predicates.
+- Do NOT use :adl or any advanced features.
+- Do NOT use any quantifiers.
+- Use only simple predicates and action preconditions/effects.
+- Avoid type hierarchies entirely unless absolutely necessary.
+- All conditions must be in propositional form.
+- Use only :strips and :typing in requirements.
+- Actions must be fully grounded in simple logical conditions.
+
+COMMENTS RULE:
+- Do NOT include natural-language explanations inside the PDDL.
+- Do NOT use comments starting with ';' inside the domain, only at the end.
+
+Do NOT include a problem file — only the domain (types, predicates, and actions).
+Prefer high-level actions (over step-by-step low-level motion).
+Before the last ')', add brief natural-language explanation as PDDL comments (in separate rows).
+

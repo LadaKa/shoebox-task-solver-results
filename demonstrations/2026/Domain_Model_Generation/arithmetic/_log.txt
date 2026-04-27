@@ -1,0 +1,23 @@
+=== Processing: cubes_6.jpg ===
+Response time: 144.221 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/arithmetic/cubes_6_20260427_031352.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/arithmetic/cubes_6_20260427_031352.pddl
+VALID: yes
+
+=== Processing: pucks_6_incomplete.png ===
+Response time: 31.178 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/arithmetic/pucks_6_incomplete_20260427_031423.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/arithmetic/pucks_6_incomplete_20260427_031423.pddl
+VALID: yes
+
+=== Processing: pucks_6_with_Nao.png ===
+Response time: 103.350 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/arithmetic/pucks_6_with_Nao_20260427_031607.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/arithmetic/pucks_6_with_Nao_20260427_031607.pddl
+VALID: yes
+
+=== Processing: pucks_6_with_Nao_hands.png ===
+Response time: 101.606 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/arithmetic/pucks_6_with_Nao_hands_20260427_031748.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/arithmetic/pucks_6_with_Nao_hands_20260427_031748.pddl
+VALID: yes

@@ -1,0 +1,41 @@
+s=== Processing: coins-angles-1-step.jpg ===
+Response time: 68.376 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/coins-angles-1-step_20260426_151044.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/coins-angles-1-step_20260426_151044.pddl
+VALID: yes
+
+=== Processing: colors-3.jpg ===
+Response time: 58.564 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/colors-3_20260426_151142.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/colors-3_20260426_151142.pddl
+VALID: yes
+
+=== Processing: colors-center.jpg ===
+Response time: 66.227 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/colors-center_20260426_151248.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/colors-center_20260426_151248.pddl
+VALID: yes
+
+=== Processing: diy-colors-1-step.jpg ===
+Response time: 63.779 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/diy-colors-1-step_20260426_151352.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/diy-colors-1-step_20260426_151352.pddl
+VALID: yes
+
+=== Processing: numbers-step-1.jpg ===
+Response time: 70.638 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/numbers-step-1_20260426_151503.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/numbers-step-1_20260426_151503.pddl
+VALID: yes
+
+=== Processing: shapes-1-step.jpg ===
+Response time: 73.393 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/shapes-1-step_20260426_151616.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/shapes-1-step_20260426_151616.pddl
+VALID: yes
+
+=== Processing: shapes-coins-rings.jpg ===
+Response time: 83.974 seconds
+/home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/shapes-coins-rings_20260426_151740.pddl
+Saved to: /home/lada/PycharmProjects/ShoeboxTaskSolver_demo/input/test_dataset/all/shapes-coins-rings_20260426_151740.pddl
+VALID: yes
