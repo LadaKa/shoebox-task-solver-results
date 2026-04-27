@@ -1,5 +1,6 @@
-# shoebox-task-solver-results
 # Shoebox Task Solver — Experiments & Results
+
+<img src="./demonstrations/2026/Domain_Model_Generation/arithmetic/tasks/pucks_6_with_Nao.png" width="200"/>
 
 This repository contains experiments and results for autonomous task solving in robot-assisted education (Shoebox Task Solver).
 
